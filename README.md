@@ -14,6 +14,6 @@ Website marketplace hewan qurban berbasis Node.js dan SQLite.
 https://abu-adnan-farm-production.up.railway.app/
 
 ## Kelompok 11 Paralel 4 || Kecerdasan Buatan - IPB University
-Syifa Nur Alfiansyah	(M0405241047)
-Ghafara Putri Fitriani	(M0405241050)
-Revana Ivanti Indriani	(M0405241051)
+- Syifa Nur Alfiansyah	(M0405241047)
+- Ghafara Putri Fitriani	(M0405241050)
+- Revana Ivanti Indriani	(M0405241051)
